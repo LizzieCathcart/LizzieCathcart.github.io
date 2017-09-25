@@ -1,0 +1,40 @@
+header {
+	background: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/22a6f914724441.562c08aa5afdd.png");
+	text-align: center;
+}
+
+img {
+	height: .5%;
+	width: .5%
+	border: 6px solid purple;
+	border-radius: 50%;
+	margin: 30px;
+}
+
+h1 {
+	font-size:60px;
+	color:#99004d;
+	font-family: 'Cedarville Cursive', cursive;
+	margin-bottom:20px;
+}
+
+ul {
+	background-color:#80ffaa;
+	padding:20px;
+}
+
+li {
+	display:inline;
+	margin:25px;
+	color:#000080;
+	font-family: 'Lato', sans-serif;
+	font-size:30px;
+}
+
+p {
+	text-align:center;
+	margin:20px;
+	color:#9900cc;
+	font-family: 'Cedarville Cursive', cursive;
+}
+
