@@ -1,0 +1,63 @@
+header {
+	text-align: center;
+}
+
+ul {
+	padding:20px;
+	text-align: center;
+}
+
+li {
+	display: inline;
+	color:#990000;
+	font-family: 'Nunito', sans-serif;
+	font-size:20px;
+	margin:25px;
+	border: solid #990000;
+	border-radius:10px;
+	padding:10px 20px 10px 20px;
+}
+
+h1 {
+	font-family: 'Great Vibes', cursive;
+	font-size:70px;
+	color:#336600;
+	margin:20px;
+}
+
+h2 {
+	font-family: 'Great Vibes', cursive;
+	font-size:30px;
+	color:#ff9966;
+	margin:20px;
+	border:dashed #ff9966;
+	border-radius:10px;
+	padding:10px;
+}
+
+.time {
+	font-family: 'Great Vibes', cursive;
+	font-size:40px;
+	color:#d9b38c;
+	padding:10px;
+	border:none;
+	margin-bottom:20px;
+}
+
+p {
+	font-family: 'Nunito', sans-serif;
+	font-size:15px;
+	color:#734d26;
+	margin:10px;
+}
+
+img {
+	border:solid #d9b38c;
+	padding:10px;
+	margin:10px;
+}
+
+#map {
+	height:100%;
+	width:80%;
+}
