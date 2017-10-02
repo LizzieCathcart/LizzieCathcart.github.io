@@ -1,5 +1,18 @@
+html {
+}
+div {
+	display:inline-block;
+	margin:0px 200px 0px 200px;
+	background: white;
+	text-align: center;
+}
+
 header {
 	text-align: center;
+	background: url("https://image.freepik.com/free-vector/worldmap-background-design_1127-2318.jpg");
+	height:100%;
+	width:100%;
+	margin-bottom:20px;
 }
 
 ul {
@@ -11,18 +24,15 @@ li {
 	display: inline;
 	color:#990000;
 	font-family: 'Nunito', sans-serif;
-	font-size:20px;
-	margin:25px;
-	border: solid #990000;
-	border-radius:10px;
-	padding:10px 20px 10px 20px;
+	font-size:15px;
+	margin:4%;
 }
 
 h1 {
 	font-family: 'Great Vibes', cursive;
-	font-size:70px;
-	color:#336600;
-	margin:20px;
+	font-size:120px;
+	color:#000000;
+	margin:20px 20px 20px 20px;
 }
 
 h2 {
@@ -38,17 +48,16 @@ h2 {
 .time {
 	font-family: 'Great Vibes', cursive;
 	font-size:40px;
-	color:#d9b38c;
-	padding:10px;
+	color:#ffffff;
 	border:none;
-	margin-bottom:20px;
+	float:right
 }
 
 p {
 	font-family: 'Nunito', sans-serif;
 	font-size:15px;
 	color:#734d26;
-	margin:10px;
+	margin: 0px 100px 0px 100px;
 }
 
 img {
@@ -57,7 +66,10 @@ img {
 	margin:10px;
 }
 
-#map {
-	height:100%;
-	width:80%;
+a {
+	text-decoration: none;
+}
+
+.home {
+	background: url(http://dkcoin8.com/images/clipart-of-a-globe-15.png);
 }
